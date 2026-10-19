@@ -1,0 +1,17 @@
+{
+  "total": 2400,
+  "outcomes": {
+    "Verified": 1976,
+    "Not completed": 145,
+    "Retry needed": 195,
+    "Support recovery": 84
+  },
+  "paths": {
+    "No challenge": 915,
+    "Identity check": 439,
+    "CAPTCHA": 1046
+  },
+  "legitimate_total": 2203,
+  "legitimate_noncompleted": 123,
+  "safety_note": "Synthetic labels are fictional and would require careful validation in real data."
+}

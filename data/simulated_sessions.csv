@@ -1,0 +1,2401 @@
+session_id,platform,cohort,verification_path,outcome,simulated_legitimate,retry_count,support_resolution_minutes,day7_return
+TN-0001,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0002,Android,New,No challenge,Verified,1,0,0,1
+TN-0003,Android,New,No challenge,Verified,1,0,0,1
+TN-0004,Web,New,Identity check,Verified,1,0,0,1
+TN-0005,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0006,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0007,Android,New,No challenge,Verified,1,0,0,1
+TN-0008,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0009,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0010,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0011,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0012,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0013,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0014,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0015,Android,New,No challenge,Verified,1,0,0,1
+TN-0016,Android,New,CAPTCHA,Retry needed,0,2,0,1
+TN-0017,Web,New,No challenge,Verified,1,0,0,0
+TN-0018,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0019,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0020,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0021,iOS,Returning,CAPTCHA,Support recovery,1,3,47,0
+TN-0022,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0023,iOS,New,No challenge,Verified,1,0,0,0
+TN-0024,Android,New,Identity check,Verified,1,0,0,1
+TN-0025,Android,Returning,No challenge,Retry needed,1,1,0,1
+TN-0026,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0027,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0028,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0029,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0030,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0031,Android,New,Identity check,Support recovery,1,3,49,1
+TN-0032,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-0033,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0034,Android,New,No challenge,Verified,1,0,0,1
+TN-0035,Android,Returning,Identity check,Retry needed,1,3,0,1
+TN-0036,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0037,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0038,iOS,New,CAPTCHA,Support recovery,1,2,38,1
+TN-0039,iOS,New,No challenge,Verified,1,0,0,0
+TN-0040,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0041,Android,New,Identity check,Verified,1,0,0,1
+TN-0042,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0043,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0044,iOS,Returning,Identity check,Retry needed,1,3,0,0
+TN-0045,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0046,iOS,New,No challenge,Verified,1,0,0,0
+TN-0047,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0048,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0049,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0050,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0051,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0052,Android,New,No challenge,Verified,1,0,0,1
+TN-0053,Android,New,No challenge,Verified,1,0,0,1
+TN-0054,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0055,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0056,Android,New,Identity check,Verified,0,0,0,0
+TN-0057,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0058,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0059,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0060,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0061,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0062,Web,New,No challenge,Verified,1,0,0,1
+TN-0063,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0064,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0065,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0066,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0067,iOS,Returning,Identity check,Retry needed,1,3,0,0
+TN-0068,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0069,Android,New,No challenge,Verified,1,0,0,1
+TN-0070,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0071,iOS,Returning,Identity check,Support recovery,1,3,67,1
+TN-0072,Web,New,Identity check,Verified,1,0,0,1
+TN-0073,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0074,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0075,Android,New,No challenge,Verified,1,0,0,1
+TN-0076,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0077,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0078,Android,New,Identity check,Verified,1,0,0,1
+TN-0079,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0080,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-0081,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0082,Android,New,No challenge,Verified,1,0,0,1
+TN-0083,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0084,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0085,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0086,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-0087,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0088,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0089,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0090,Web,New,Identity check,Verified,1,0,0,1
+TN-0091,iOS,Returning,Identity check,Support recovery,1,2,5,0
+TN-0092,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0093,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0094,Web,New,No challenge,Verified,1,0,0,0
+TN-0095,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0096,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0097,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0098,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-0099,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0100,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0101,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0102,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0103,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0104,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0105,Android,New,Identity check,Verified,1,0,0,0
+TN-0106,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0107,Android,Returning,Identity check,Retry needed,1,2,0,0
+TN-0108,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0109,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0110,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0111,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0112,Android,New,No challenge,Verified,1,0,0,1
+TN-0113,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0114,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0115,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0116,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0117,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0118,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0119,Android,New,No challenge,Verified,1,0,0,1
+TN-0120,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-0121,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0122,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0123,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0124,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0125,Android,New,No challenge,Verified,1,0,0,1
+TN-0126,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0127,iOS,New,No challenge,Verified,0,0,0,1
+TN-0128,iOS,Returning,Identity check,Retry needed,1,1,0,1
+TN-0129,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0130,iOS,New,No challenge,Verified,1,0,0,1
+TN-0131,Android,New,No challenge,Verified,1,0,0,1
+TN-0132,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0133,iOS,New,No challenge,Verified,1,0,0,0
+TN-0134,iOS,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-0135,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0136,iOS,New,Identity check,Verified,1,0,0,1
+TN-0137,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0138,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0139,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-0140,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0141,iOS,New,No challenge,Verified,1,0,0,1
+TN-0142,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0143,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0144,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0145,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0146,Android,New,No challenge,Verified,1,0,0,1
+TN-0147,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0148,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0149,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0150,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0151,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0152,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0153,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0154,iOS,New,Identity check,Verified,1,0,0,1
+TN-0155,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0156,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0157,Android,New,No challenge,Verified,1,0,0,0
+TN-0158,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0159,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0160,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0161,Android,New,No challenge,Verified,1,0,0,1
+TN-0162,iOS,New,CAPTCHA,Retry needed,1,2,0,0
+TN-0163,Web,New,No challenge,Verified,1,0,0,1
+TN-0164,iOS,New,No challenge,Verified,1,0,0,1
+TN-0165,Web,New,No challenge,Verified,1,0,0,1
+TN-0166,iOS,Returning,No challenge,Retry needed,1,3,0,1
+TN-0167,Android,New,Identity check,Verified,1,0,0,1
+TN-0168,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0169,iOS,New,No challenge,Verified,1,0,0,0
+TN-0170,iOS,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-0171,Web,New,CAPTCHA,Retry needed,1,2,0,0
+TN-0172,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0173,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0174,Android,New,Identity check,Verified,1,0,0,1
+TN-0175,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0176,iOS,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-0177,Android,New,Identity check,Verified,1,0,0,1
+TN-0178,iOS,New,No challenge,Verified,1,0,0,1
+TN-0179,iOS,New,No challenge,Verified,1,0,0,1
+TN-0180,Android,New,Identity check,Verified,1,0,0,0
+TN-0181,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0182,Android,New,No challenge,Not completed,1,0,0,0
+TN-0183,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0184,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0185,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-0186,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0187,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0188,iOS,New,No challenge,Verified,1,0,0,0
+TN-0189,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0190,Android,New,No challenge,Verified,1,0,0,0
+TN-0191,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0192,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0193,Android,New,No challenge,Retry needed,1,3,0,0
+TN-0194,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0195,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0196,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0197,iOS,New,No challenge,Verified,1,0,0,1
+TN-0198,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0199,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0200,Android,Returning,Identity check,Support recovery,1,1,14,1
+TN-0201,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0202,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-0203,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0204,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-0205,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0206,Android,New,Identity check,Verified,1,0,0,0
+TN-0207,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0208,Android,New,Identity check,Verified,0,0,0,1
+TN-0209,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0210,iOS,New,No challenge,Verified,1,0,0,1
+TN-0211,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0212,Web,New,Identity check,Verified,1,0,0,0
+TN-0213,iOS,New,No challenge,Verified,1,0,0,1
+TN-0214,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0215,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0216,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-0217,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0218,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0219,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0220,Web,Returning,CAPTCHA,Support recovery,1,1,45,0
+TN-0221,Android,Returning,No challenge,Verified,0,0,0,1
+TN-0222,iOS,New,Identity check,Verified,1,0,0,1
+TN-0223,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0224,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0225,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0226,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0227,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0228,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0229,iOS,New,No challenge,Verified,1,0,0,1
+TN-0230,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0231,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0232,Android,New,Identity check,Retry needed,1,3,0,0
+TN-0233,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0234,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0235,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0236,Android,New,No challenge,Verified,1,0,0,1
+TN-0237,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0238,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-0239,iOS,New,CAPTCHA,Retry needed,1,2,0,0
+TN-0240,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0241,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0242,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0243,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0244,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0245,Android,New,Identity check,Verified,1,0,0,1
+TN-0246,Android,New,No challenge,Verified,1,0,0,1
+TN-0247,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0248,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0249,iOS,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-0250,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0251,Android,New,No challenge,Verified,1,0,0,1
+TN-0252,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0253,Android,Returning,Identity check,Support recovery,1,1,88,1
+TN-0254,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-0255,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-0256,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0257,Android,New,Identity check,Support recovery,1,3,13,0
+TN-0258,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0259,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0260,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0261,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0262,Android,New,No challenge,Verified,1,0,0,1
+TN-0263,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0264,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0265,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0266,iOS,New,No challenge,Verified,1,0,0,1
+TN-0267,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0268,Android,New,Identity check,Verified,1,0,0,1
+TN-0269,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0270,iOS,New,Identity check,Verified,1,0,0,1
+TN-0271,Android,New,Identity check,Verified,1,0,0,1
+TN-0272,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-0273,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0274,iOS,New,No challenge,Verified,1,0,0,1
+TN-0275,Web,Returning,CAPTCHA,Support recovery,1,1,48,0
+TN-0276,Android,New,No challenge,Verified,1,0,0,1
+TN-0277,Web,New,No challenge,Verified,1,0,0,1
+TN-0278,Android,New,No challenge,Verified,1,0,0,1
+TN-0279,Android,Returning,No challenge,Not completed,0,0,0,0
+TN-0280,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0281,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0282,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0283,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0284,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0285,iOS,New,Identity check,Support recovery,1,3,39,1
+TN-0286,iOS,New,No challenge,Verified,1,0,0,0
+TN-0287,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0288,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0289,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0290,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0291,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0292,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0293,Android,New,No challenge,Verified,1,0,0,0
+TN-0294,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0295,Android,New,No challenge,Verified,1,0,0,1
+TN-0296,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0297,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0298,Android,Returning,Identity check,Support recovery,1,3,23,1
+TN-0299,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0300,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0301,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0302,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0303,iOS,Returning,CAPTCHA,Retry needed,0,1,0,1
+TN-0304,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0305,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0306,Android,New,Identity check,Verified,1,0,0,1
+TN-0307,Web,Returning,Identity check,Verified,1,0,0,0
+TN-0308,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-0309,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0310,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0311,iOS,New,No challenge,Verified,1,0,0,1
+TN-0312,Android,New,Identity check,Support recovery,1,3,18,0
+TN-0313,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0314,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0315,Android,New,Identity check,Verified,1,0,0,1
+TN-0316,iOS,New,Identity check,Verified,1,0,0,0
+TN-0317,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0318,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0319,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0320,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0321,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0322,Web,Returning,Identity check,Not completed,1,0,0,0
+TN-0323,Android,New,No challenge,Verified,1,0,0,1
+TN-0324,Android,New,Identity check,Not completed,1,0,0,1
+TN-0325,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0326,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0327,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0328,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0329,iOS,Returning,Identity check,Not completed,0,0,0,1
+TN-0330,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0331,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0332,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0333,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0334,Web,Returning,Identity check,Retry needed,1,1,0,1
+TN-0335,Android,New,CAPTCHA,Support recovery,1,3,8,0
+TN-0336,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-0337,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0338,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0339,Android,New,CAPTCHA,Verified,0,0,0,0
+TN-0340,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0341,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0342,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0343,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0344,Android,Returning,No challenge,Retry needed,1,3,0,0
+TN-0345,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0346,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0347,Android,New,No challenge,Verified,1,0,0,1
+TN-0348,iOS,New,No challenge,Verified,1,0,0,1
+TN-0349,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0350,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0351,Web,Returning,Identity check,Not completed,1,0,0,1
+TN-0352,iOS,New,No challenge,Verified,1,0,0,1
+TN-0353,Android,Returning,No challenge,Retry needed,1,3,0,0
+TN-0354,Android,New,No challenge,Verified,1,0,0,1
+TN-0355,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-0356,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0357,Web,New,No challenge,Verified,1,0,0,1
+TN-0358,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0359,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0360,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0361,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0362,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0363,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0364,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0365,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0366,iOS,Returning,No challenge,Support recovery,1,2,85,1
+TN-0367,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0368,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0369,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0370,iOS,New,No challenge,Verified,1,0,0,0
+TN-0371,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0372,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0373,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0374,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0375,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0376,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0377,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-0378,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0379,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0380,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0381,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0382,iOS,New,No challenge,Verified,1,0,0,1
+TN-0383,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0384,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0385,iOS,New,Identity check,Verified,1,0,0,0
+TN-0386,Web,New,No challenge,Verified,1,0,0,1
+TN-0387,iOS,Returning,CAPTCHA,Support recovery,1,1,16,1
+TN-0388,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0389,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0390,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0391,Android,New,No challenge,Verified,1,0,0,1
+TN-0392,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0393,Android,Returning,Identity check,Verified,1,0,0,0
+TN-0394,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0395,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0396,Android,New,No challenge,Verified,1,0,0,1
+TN-0397,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0398,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0399,iOS,Returning,Identity check,Retry needed,1,3,0,1
+TN-0400,Android,New,Identity check,Retry needed,1,1,0,0
+TN-0401,Web,New,CAPTCHA,Verified,0,0,0,1
+TN-0402,iOS,Returning,Identity check,Retry needed,1,3,0,0
+TN-0403,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0404,Android,New,No challenge,Retry needed,1,3,0,0
+TN-0405,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0406,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0407,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0408,Android,New,Identity check,Verified,1,0,0,1
+TN-0409,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0410,iOS,New,Identity check,Verified,1,0,0,1
+TN-0411,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0412,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0413,iOS,New,No challenge,Verified,1,0,0,1
+TN-0414,iOS,New,CAPTCHA,Retry needed,1,2,0,0
+TN-0415,iOS,New,No challenge,Verified,1,0,0,1
+TN-0416,iOS,New,No challenge,Verified,0,0,0,1
+TN-0417,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0418,iOS,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-0419,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0420,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0421,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0422,Android,New,No challenge,Verified,1,0,0,0
+TN-0423,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0424,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0425,Android,New,Identity check,Verified,0,0,0,1
+TN-0426,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0427,Web,Returning,No challenge,Retry needed,1,3,0,0
+TN-0428,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0429,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0430,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0431,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0432,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0433,Android,Returning,CAPTCHA,Support recovery,1,2,37,1
+TN-0434,Web,Returning,No challenge,Verified,0,0,0,1
+TN-0435,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0436,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0437,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-0438,Android,New,Identity check,Support recovery,1,2,20,0
+TN-0439,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0440,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-0441,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0442,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0443,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0444,Android,Returning,Identity check,Support recovery,1,3,61,1
+TN-0445,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0446,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0447,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0448,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0449,Web,Returning,Identity check,Not completed,1,0,0,0
+TN-0450,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0451,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0452,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0453,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0454,Android,New,Identity check,Verified,1,0,0,1
+TN-0455,Android,New,No challenge,Verified,1,0,0,0
+TN-0456,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0457,Android,New,No challenge,Verified,1,0,0,0
+TN-0458,Web,New,No challenge,Verified,1,0,0,1
+TN-0459,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0460,iOS,New,No challenge,Verified,1,0,0,0
+TN-0461,iOS,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-0462,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0463,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0464,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0465,iOS,Returning,No challenge,Verified,0,0,0,1
+TN-0466,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0467,Android,Returning,Identity check,Retry needed,0,2,0,1
+TN-0468,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0469,Android,New,CAPTCHA,Retry needed,0,1,0,1
+TN-0470,Web,Returning,No challenge,Verified,0,0,0,1
+TN-0471,iOS,Returning,No challenge,Not completed,1,0,0,0
+TN-0472,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0473,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0474,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0475,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0476,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0477,Android,New,CAPTCHA,Retry needed,1,1,0,1
+TN-0478,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0479,iOS,New,No challenge,Verified,1,0,0,0
+TN-0480,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0481,Web,New,No challenge,Verified,1,0,0,1
+TN-0482,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0483,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0484,iOS,New,No challenge,Verified,1,0,0,1
+TN-0485,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0486,iOS,New,Identity check,Verified,0,0,0,1
+TN-0487,Web,New,Identity check,Verified,1,0,0,1
+TN-0488,Web,New,No challenge,Verified,1,0,0,1
+TN-0489,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0490,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0491,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0492,Web,Returning,Identity check,Retry needed,1,3,0,0
+TN-0493,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0494,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0495,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0496,Android,New,Identity check,Verified,1,0,0,1
+TN-0497,Web,New,No challenge,Verified,1,0,0,0
+TN-0498,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0499,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0500,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0501,iOS,New,Identity check,Retry needed,1,1,0,0
+TN-0502,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0503,iOS,Returning,CAPTCHA,Support recovery,1,1,89,0
+TN-0504,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0505,Web,New,No challenge,Verified,1,0,0,0
+TN-0506,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0507,Web,New,No challenge,Verified,1,0,0,1
+TN-0508,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0509,Android,New,No challenge,Verified,1,0,0,1
+TN-0510,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0511,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0512,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0513,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0514,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0515,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0516,Android,Returning,No challenge,Verified,0,0,0,1
+TN-0517,iOS,New,Identity check,Not completed,1,0,0,1
+TN-0518,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0519,iOS,New,Identity check,Verified,1,0,0,1
+TN-0520,Android,New,No challenge,Verified,1,0,0,1
+TN-0521,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0522,iOS,New,No challenge,Verified,1,0,0,0
+TN-0523,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0524,Android,New,No challenge,Verified,1,0,0,1
+TN-0525,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0526,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0527,Web,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-0528,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-0529,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0530,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0531,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0532,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0533,Android,New,Identity check,Verified,1,0,0,1
+TN-0534,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0535,iOS,New,No challenge,Verified,1,0,0,1
+TN-0536,Web,New,No challenge,Verified,1,0,0,1
+TN-0537,Android,Returning,No challenge,Support recovery,1,2,51,1
+TN-0538,Web,New,No challenge,Verified,1,0,0,1
+TN-0539,Android,New,No challenge,Verified,1,0,0,1
+TN-0540,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0541,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0542,Web,New,No challenge,Verified,1,0,0,1
+TN-0543,iOS,New,No challenge,Verified,1,0,0,1
+TN-0544,Android,Returning,Identity check,Not completed,0,0,0,0
+TN-0545,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0546,iOS,New,No challenge,Verified,1,0,0,1
+TN-0547,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0548,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0549,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0550,iOS,Returning,No challenge,Verified,0,0,0,1
+TN-0551,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0552,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0553,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0554,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0555,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0556,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0557,iOS,New,CAPTCHA,Verified,0,0,0,0
+TN-0558,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0559,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0560,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0561,Android,Returning,No challenge,Retry needed,1,1,0,1
+TN-0562,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0563,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-0564,Android,New,Identity check,Verified,1,0,0,1
+TN-0565,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0566,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0567,iOS,New,No challenge,Verified,1,0,0,0
+TN-0568,Web,New,No challenge,Verified,1,0,0,1
+TN-0569,Android,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-0570,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0571,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0572,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0573,Android,New,No challenge,Verified,1,0,0,1
+TN-0574,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0575,iOS,New,CAPTCHA,Not completed,1,0,0,1
+TN-0576,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0577,Android,New,No challenge,Verified,1,0,0,0
+TN-0578,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0579,Web,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0580,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0581,iOS,Returning,CAPTCHA,Support recovery,1,3,88,1
+TN-0582,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0583,Web,New,Identity check,Verified,1,0,0,1
+TN-0584,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0585,iOS,Returning,Identity check,Retry needed,1,1,0,0
+TN-0586,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0587,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0588,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0589,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0590,iOS,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-0591,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0592,Android,New,CAPTCHA,Retry needed,1,3,0,0
+TN-0593,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0594,iOS,New,No challenge,Verified,1,0,0,1
+TN-0595,Android,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-0596,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0597,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0598,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0599,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0600,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0601,Android,New,No challenge,Verified,1,0,0,1
+TN-0602,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0603,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0604,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0605,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-0606,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0607,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0608,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0609,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0610,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0611,Web,Returning,CAPTCHA,Support recovery,1,2,37,0
+TN-0612,iOS,New,No challenge,Verified,1,0,0,1
+TN-0613,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0614,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0615,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0616,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0617,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0618,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0619,Android,New,No challenge,Verified,1,0,0,1
+TN-0620,iOS,Returning,CAPTCHA,Support recovery,1,3,82,1
+TN-0621,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0622,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0623,Web,New,CAPTCHA,Retry needed,1,2,0,1
+TN-0624,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0625,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0626,iOS,New,No challenge,Verified,1,0,0,1
+TN-0627,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0628,iOS,New,No challenge,Verified,1,0,0,1
+TN-0629,Android,New,No challenge,Verified,1,0,0,1
+TN-0630,Android,New,Identity check,Verified,1,0,0,1
+TN-0631,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0632,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0633,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0634,Android,New,No challenge,Verified,1,0,0,1
+TN-0635,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0636,Web,New,Identity check,Retry needed,1,1,0,1
+TN-0637,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0638,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0639,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0640,Android,New,No challenge,Verified,1,0,0,0
+TN-0641,iOS,New,No challenge,Verified,1,0,0,1
+TN-0642,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0643,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-0644,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0645,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0646,Android,New,No challenge,Verified,1,0,0,1
+TN-0647,Android,New,No challenge,Verified,1,0,0,1
+TN-0648,iOS,New,Identity check,Verified,1,0,0,1
+TN-0649,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0650,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0651,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-0652,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0653,Android,New,Identity check,Verified,1,0,0,1
+TN-0654,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0655,Web,Returning,Identity check,Support recovery,1,1,77,0
+TN-0656,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0657,Android,Returning,CAPTCHA,Verified,0,0,0,0
+TN-0658,Android,New,No challenge,Verified,1,0,0,1
+TN-0659,Android,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-0660,Web,Returning,No challenge,Not completed,1,0,0,0
+TN-0661,iOS,New,CAPTCHA,Support recovery,1,3,48,1
+TN-0662,Web,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-0663,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0664,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0665,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0666,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0667,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0668,iOS,New,No challenge,Verified,1,0,0,1
+TN-0669,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0670,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0671,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0672,Web,New,No challenge,Verified,1,0,0,1
+TN-0673,iOS,New,CAPTCHA,Retry needed,1,3,0,0
+TN-0674,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0675,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0676,iOS,New,No challenge,Verified,1,0,0,1
+TN-0677,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-0678,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0679,Web,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-0680,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0681,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0682,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0683,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0684,Web,New,Identity check,Verified,1,0,0,1
+TN-0685,iOS,New,No challenge,Verified,1,0,0,0
+TN-0686,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0687,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0688,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0689,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0690,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0691,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0692,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0693,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0694,Web,New,No challenge,Verified,1,0,0,1
+TN-0695,iOS,New,Identity check,Verified,0,0,0,1
+TN-0696,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0697,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0698,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0699,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0700,iOS,New,No challenge,Verified,0,0,0,1
+TN-0701,Android,New,No challenge,Verified,1,0,0,1
+TN-0702,Android,New,Identity check,Verified,0,0,0,1
+TN-0703,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0704,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0705,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0706,Web,New,No challenge,Verified,1,0,0,1
+TN-0707,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0708,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0709,Web,New,Identity check,Verified,1,0,0,1
+TN-0710,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0711,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0712,Android,Returning,Identity check,Retry needed,1,3,0,0
+TN-0713,iOS,Returning,No challenge,Not completed,0,0,0,1
+TN-0714,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0715,Android,New,No challenge,Verified,1,0,0,1
+TN-0716,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0717,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-0718,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0719,Android,New,Identity check,Verified,1,0,0,1
+TN-0720,Android,New,No challenge,Verified,1,0,0,1
+TN-0721,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0722,iOS,New,CAPTCHA,Retry needed,1,3,0,1
+TN-0723,Android,New,No challenge,Verified,1,0,0,1
+TN-0724,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0725,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0726,Android,Returning,Identity check,Support recovery,1,2,59,0
+TN-0727,Android,New,No challenge,Verified,1,0,0,1
+TN-0728,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0729,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0730,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0731,Web,Returning,Identity check,Verified,1,0,0,0
+TN-0732,Web,New,No challenge,Verified,1,0,0,0
+TN-0733,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0734,Android,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-0735,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0736,iOS,New,No challenge,Verified,1,0,0,1
+TN-0737,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0738,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-0739,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0740,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0741,Web,New,No challenge,Verified,1,0,0,1
+TN-0742,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0743,iOS,New,Identity check,Support recovery,1,3,66,1
+TN-0744,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0745,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0746,Android,Returning,No challenge,Verified,0,0,0,1
+TN-0747,Android,Returning,No challenge,Not completed,1,0,0,0
+TN-0748,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0749,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0750,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0751,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0752,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0753,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0754,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0755,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0756,Web,New,No challenge,Verified,1,0,0,0
+TN-0757,Android,New,Identity check,Verified,1,0,0,1
+TN-0758,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0759,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0760,Android,New,Identity check,Verified,1,0,0,1
+TN-0761,iOS,New,No challenge,Verified,1,0,0,1
+TN-0762,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0763,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0764,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0765,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0766,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0767,Android,New,No challenge,Verified,1,0,0,1
+TN-0768,iOS,Returning,No challenge,Verified,0,0,0,1
+TN-0769,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0770,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0771,Android,Returning,CAPTCHA,Support recovery,1,1,13,0
+TN-0772,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0773,iOS,New,No challenge,Verified,1,0,0,1
+TN-0774,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0775,Web,New,Identity check,Not completed,1,0,0,1
+TN-0776,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0777,Android,Returning,No challenge,Retry needed,1,2,0,0
+TN-0778,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0779,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0780,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0781,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0782,iOS,New,Identity check,Verified,1,0,0,1
+TN-0783,iOS,New,Identity check,Retry needed,1,3,0,1
+TN-0784,Android,New,No challenge,Verified,1,0,0,1
+TN-0785,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0786,iOS,New,CAPTCHA,Retry needed,0,1,0,0
+TN-0787,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0788,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0789,iOS,New,No challenge,Verified,1,0,0,1
+TN-0790,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0791,iOS,New,Identity check,Verified,1,0,0,0
+TN-0792,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0793,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0794,Android,New,No challenge,Verified,1,0,0,1
+TN-0795,Android,Returning,Identity check,Not completed,0,0,0,0
+TN-0796,Android,New,No challenge,Retry needed,0,2,0,1
+TN-0797,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0798,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0799,Android,New,No challenge,Verified,1,0,0,1
+TN-0800,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0801,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0802,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0803,Web,Returning,No challenge,Retry needed,1,2,0,0
+TN-0804,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0805,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0806,iOS,New,Identity check,Verified,1,0,0,1
+TN-0807,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0808,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0809,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0810,Android,New,No challenge,Verified,1,0,0,0
+TN-0811,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0812,iOS,Returning,No challenge,Retry needed,1,1,0,1
+TN-0813,iOS,Returning,Identity check,Retry needed,1,1,0,0
+TN-0814,Android,New,No challenge,Verified,1,0,0,1
+TN-0815,Android,New,Identity check,Verified,1,0,0,0
+TN-0816,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0817,Android,Returning,No challenge,Retry needed,1,1,0,0
+TN-0818,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0819,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0820,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0821,iOS,New,No challenge,Verified,1,0,0,0
+TN-0822,Android,New,CAPTCHA,Support recovery,1,1,7,1
+TN-0823,Web,New,CAPTCHA,Verified,0,0,0,1
+TN-0824,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0825,Web,Returning,No challenge,Support recovery,1,2,67,0
+TN-0826,Web,Returning,No challenge,Retry needed,1,2,0,1
+TN-0827,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0828,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0829,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0830,iOS,New,No challenge,Verified,1,0,0,1
+TN-0831,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0832,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0833,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0834,Android,New,No challenge,Verified,1,0,0,1
+TN-0835,Android,New,Identity check,Retry needed,1,1,0,0
+TN-0836,Android,Returning,Identity check,Verified,1,0,0,0
+TN-0837,iOS,New,No challenge,Verified,1,0,0,1
+TN-0838,iOS,Returning,Identity check,Retry needed,0,1,0,0
+TN-0839,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0840,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0841,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0842,iOS,New,No challenge,Verified,1,0,0,1
+TN-0843,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0844,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0845,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0846,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0847,iOS,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-0848,Android,Returning,Identity check,Verified,0,0,0,1
+TN-0849,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0850,iOS,New,No challenge,Verified,1,0,0,1
+TN-0851,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0852,iOS,New,CAPTCHA,Support recovery,1,2,15,0
+TN-0853,iOS,New,Identity check,Verified,1,0,0,1
+TN-0854,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-0855,Android,New,Identity check,Verified,1,0,0,1
+TN-0856,iOS,New,Identity check,Verified,1,0,0,1
+TN-0857,Web,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-0858,Android,New,No challenge,Verified,1,0,0,1
+TN-0859,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0860,Android,New,CAPTCHA,Not completed,1,0,0,1
+TN-0861,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0862,Android,New,No challenge,Verified,1,0,0,1
+TN-0863,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0864,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0865,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0866,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0867,iOS,New,Identity check,Verified,1,0,0,1
+TN-0868,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0869,iOS,New,CAPTCHA,Retry needed,1,1,0,0
+TN-0870,Android,New,Identity check,Verified,0,0,0,1
+TN-0871,Web,New,No challenge,Verified,1,0,0,1
+TN-0872,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0873,Web,Returning,Identity check,Not completed,1,0,0,0
+TN-0874,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-0875,iOS,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-0876,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0877,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0878,iOS,Returning,No challenge,Retry needed,1,3,0,1
+TN-0879,Android,New,Identity check,Verified,1,0,0,1
+TN-0880,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0881,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0882,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0883,Android,New,Identity check,Support recovery,1,3,33,1
+TN-0884,Android,Returning,Identity check,Verified,1,0,0,0
+TN-0885,Web,New,Identity check,Retry needed,1,3,0,0
+TN-0886,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0887,iOS,New,Identity check,Verified,1,0,0,0
+TN-0888,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0889,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0890,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0891,iOS,Returning,CAPTCHA,Retry needed,0,1,0,1
+TN-0892,iOS,New,No challenge,Verified,1,0,0,1
+TN-0893,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0894,Android,New,No challenge,Verified,1,0,0,0
+TN-0895,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0896,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0897,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0898,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0899,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0900,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0901,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0902,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0903,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-0904,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0905,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0906,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0907,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-0908,Android,New,No challenge,Verified,1,0,0,1
+TN-0909,Web,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0910,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0911,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0912,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0913,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0914,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0915,Android,Returning,No challenge,Verified,1,0,0,0
+TN-0916,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0917,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0918,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0919,iOS,New,No challenge,Verified,1,0,0,1
+TN-0920,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0921,iOS,New,Identity check,Verified,0,0,0,1
+TN-0922,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0923,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0924,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0925,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0926,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0927,Android,New,Identity check,Support recovery,1,3,79,1
+TN-0928,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0929,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0930,Android,New,No challenge,Verified,1,0,0,1
+TN-0931,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0932,iOS,Returning,Identity check,Retry needed,1,2,0,0
+TN-0933,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0934,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-0935,Web,New,CAPTCHA,Not completed,1,0,0,0
+TN-0936,iOS,New,No challenge,Verified,1,0,0,1
+TN-0937,Android,Returning,CAPTCHA,Support recovery,1,2,35,1
+TN-0938,Web,Returning,No challenge,Verified,1,0,0,0
+TN-0939,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0940,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-0941,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-0942,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-0943,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0944,Android,Returning,No challenge,Retry needed,1,1,0,1
+TN-0945,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-0946,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0947,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-0948,Web,New,Identity check,Retry needed,1,3,0,1
+TN-0949,iOS,New,No challenge,Verified,1,0,0,1
+TN-0950,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-0951,Web,Returning,Identity check,Verified,1,0,0,1
+TN-0952,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0953,iOS,Returning,No challenge,Verified,0,0,0,1
+TN-0954,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0955,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0956,Android,Returning,Identity check,Verified,1,0,0,0
+TN-0957,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-0958,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0959,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0960,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-0961,Android,Returning,Identity check,Verified,1,0,0,0
+TN-0962,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0963,Web,New,Identity check,Not completed,1,0,0,0
+TN-0964,Android,Returning,Identity check,Verified,1,0,0,1
+TN-0965,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-0966,Android,New,CAPTCHA,Verified,0,0,0,0
+TN-0967,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0968,Android,New,No challenge,Verified,1,0,0,1
+TN-0969,Web,New,Identity check,Retry needed,1,3,0,1
+TN-0970,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0971,iOS,New,CAPTCHA,Retry needed,1,2,0,0
+TN-0972,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0973,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0974,Android,New,No challenge,Verified,1,0,0,1
+TN-0975,Android,New,No challenge,Not completed,1,0,0,0
+TN-0976,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-0977,Android,New,Identity check,Verified,1,0,0,0
+TN-0978,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0979,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0980,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-0981,Android,Returning,Identity check,Retry needed,1,3,0,1
+TN-0982,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0983,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0984,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-0985,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-0986,Android,New,No challenge,Verified,1,0,0,1
+TN-0987,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-0988,Android,Returning,No challenge,Verified,1,0,0,1
+TN-0989,iOS,Returning,Identity check,Retry needed,1,2,0,0
+TN-0990,iOS,New,No challenge,Verified,1,0,0,1
+TN-0991,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-0992,iOS,Returning,CAPTCHA,Support recovery,1,1,10,1
+TN-0993,iOS,New,CAPTCHA,Retry needed,1,3,0,1
+TN-0994,Android,New,No challenge,Verified,1,0,0,1
+TN-0995,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0996,Web,Returning,No challenge,Verified,1,0,0,1
+TN-0997,Web,New,No challenge,Verified,1,0,0,1
+TN-0998,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-0999,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1000,Android,New,No challenge,Verified,1,0,0,1
+TN-1001,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1002,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1003,Web,New,CAPTCHA,Retry needed,1,3,0,1
+TN-1004,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1005,iOS,New,No challenge,Verified,1,0,0,1
+TN-1006,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1007,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1008,Android,New,No challenge,Verified,1,0,0,1
+TN-1009,Android,New,CAPTCHA,Retry needed,1,2,0,0
+TN-1010,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1011,iOS,New,No challenge,Verified,1,0,0,1
+TN-1012,iOS,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-1013,Android,New,No challenge,Verified,1,0,0,1
+TN-1014,Android,New,No challenge,Verified,0,0,0,1
+TN-1015,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1016,Android,New,Identity check,Verified,0,0,0,0
+TN-1017,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1018,iOS,New,No challenge,Verified,1,0,0,1
+TN-1019,Android,New,No challenge,Verified,1,0,0,1
+TN-1020,Android,New,CAPTCHA,Support recovery,1,3,65,1
+TN-1021,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1022,Web,Returning,No challenge,Retry needed,1,1,0,0
+TN-1023,iOS,New,No challenge,Verified,0,0,0,1
+TN-1024,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1025,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1026,Android,New,No challenge,Verified,1,0,0,1
+TN-1027,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1028,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1029,Web,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1030,iOS,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1031,Android,New,No challenge,Retry needed,1,1,0,0
+TN-1032,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1033,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1034,Web,New,CAPTCHA,Support recovery,1,1,32,0
+TN-1035,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1036,Android,New,Identity check,Verified,1,0,0,1
+TN-1037,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1038,iOS,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-1039,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1040,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1041,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1042,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1043,iOS,New,Identity check,Verified,1,0,0,1
+TN-1044,Web,Returning,Identity check,Support recovery,1,3,23,1
+TN-1045,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1046,Android,New,No challenge,Verified,1,0,0,1
+TN-1047,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1048,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1049,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-1050,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-1051,iOS,New,No challenge,Verified,1,0,0,1
+TN-1052,Android,New,No challenge,Verified,1,0,0,1
+TN-1053,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1054,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1055,Android,New,No challenge,Verified,1,0,0,1
+TN-1056,iOS,New,No challenge,Verified,1,0,0,1
+TN-1057,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1058,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1059,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1060,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1061,Android,New,No challenge,Verified,1,0,0,1
+TN-1062,iOS,New,No challenge,Verified,1,0,0,1
+TN-1063,iOS,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-1064,Web,New,No challenge,Not completed,1,0,0,1
+TN-1065,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1066,Android,New,Identity check,Not completed,1,0,0,0
+TN-1067,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1068,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1069,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1070,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1071,iOS,New,No challenge,Verified,1,0,0,1
+TN-1072,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1073,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1074,iOS,New,Identity check,Verified,1,0,0,1
+TN-1075,Android,New,No challenge,Verified,1,0,0,1
+TN-1076,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1077,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1078,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1079,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1080,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1081,Web,Returning,Identity check,Verified,1,0,0,0
+TN-1082,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1083,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1084,Web,New,No challenge,Verified,1,0,0,1
+TN-1085,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1086,iOS,New,No challenge,Verified,1,0,0,1
+TN-1087,Web,New,No challenge,Verified,1,0,0,0
+TN-1088,iOS,New,No challenge,Retry needed,1,3,0,0
+TN-1089,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-1090,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1091,Web,New,No challenge,Verified,0,0,0,0
+TN-1092,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1093,iOS,New,No challenge,Verified,1,0,0,1
+TN-1094,Web,New,No challenge,Verified,1,0,0,1
+TN-1095,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1096,Web,New,No challenge,Verified,1,0,0,1
+TN-1097,Web,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1098,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1099,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-1100,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1101,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1102,iOS,New,Identity check,Verified,1,0,0,1
+TN-1103,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1104,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1105,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1106,Android,New,No challenge,Verified,1,0,0,1
+TN-1107,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1108,Web,New,No challenge,Verified,1,0,0,1
+TN-1109,iOS,New,No challenge,Verified,1,0,0,1
+TN-1110,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1111,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1112,iOS,New,No challenge,Verified,1,0,0,1
+TN-1113,Android,Returning,CAPTCHA,Support recovery,1,1,21,1
+TN-1114,iOS,New,No challenge,Verified,1,0,0,0
+TN-1115,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1116,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1117,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1118,Android,Returning,No challenge,Verified,0,0,0,1
+TN-1119,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1120,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1121,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1122,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1123,iOS,New,No challenge,Verified,0,0,0,1
+TN-1124,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-1125,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1126,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1127,iOS,Returning,No challenge,Not completed,1,0,0,0
+TN-1128,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1129,iOS,New,No challenge,Verified,1,0,0,1
+TN-1130,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1131,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1132,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1133,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1134,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1135,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1136,Web,New,Identity check,Support recovery,1,2,17,1
+TN-1137,Android,New,No challenge,Verified,1,0,0,0
+TN-1138,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1139,iOS,New,No challenge,Verified,1,0,0,1
+TN-1140,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1141,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1142,Android,New,No challenge,Verified,1,0,0,1
+TN-1143,Android,New,No challenge,Verified,1,0,0,1
+TN-1144,iOS,New,No challenge,Verified,1,0,0,1
+TN-1145,Web,New,CAPTCHA,Not completed,1,0,0,0
+TN-1146,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1147,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1148,iOS,New,No challenge,Verified,1,0,0,1
+TN-1149,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1150,Android,Returning,Identity check,Retry needed,0,1,0,1
+TN-1151,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1152,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1153,Web,New,CAPTCHA,Verified,0,0,0,1
+TN-1154,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1155,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1156,Web,New,No challenge,Verified,0,0,0,1
+TN-1157,iOS,Returning,Identity check,Support recovery,1,3,31,1
+TN-1158,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1159,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1160,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1161,iOS,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-1162,Android,Returning,Identity check,Retry needed,1,2,0,1
+TN-1163,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1164,iOS,New,No challenge,Verified,1,0,0,1
+TN-1165,iOS,New,No challenge,Verified,1,0,0,1
+TN-1166,iOS,New,No challenge,Not completed,1,0,0,0
+TN-1167,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1168,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1169,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1170,iOS,New,No challenge,Verified,1,0,0,1
+TN-1171,Web,Returning,Identity check,Not completed,0,0,0,0
+TN-1172,Web,New,No challenge,Verified,1,0,0,1
+TN-1173,Android,New,No challenge,Verified,1,0,0,1
+TN-1174,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1175,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1176,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1177,iOS,New,No challenge,Verified,1,0,0,1
+TN-1178,Android,New,Identity check,Verified,1,0,0,1
+TN-1179,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1180,iOS,New,No challenge,Verified,1,0,0,1
+TN-1181,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1182,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1183,Web,New,CAPTCHA,Retry needed,1,1,0,1
+TN-1184,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1185,Android,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-1186,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1187,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1188,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1189,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1190,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1191,Android,New,Identity check,Verified,1,0,0,1
+TN-1192,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1193,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1194,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1195,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1196,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1197,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1198,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1199,Android,New,No challenge,Verified,1,0,0,0
+TN-1200,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1201,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1202,Web,New,Identity check,Verified,1,0,0,1
+TN-1203,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1204,iOS,New,No challenge,Verified,1,0,0,0
+TN-1205,Android,New,No challenge,Verified,1,0,0,1
+TN-1206,Web,New,Identity check,Verified,1,0,0,1
+TN-1207,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1208,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1209,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1210,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1211,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1212,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1213,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1214,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1215,iOS,New,No challenge,Verified,1,0,0,1
+TN-1216,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1217,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1218,Android,New,CAPTCHA,Verified,0,0,0,0
+TN-1219,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1220,Web,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1221,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1222,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1223,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1224,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1225,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1226,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1227,iOS,New,No challenge,Verified,1,0,0,1
+TN-1228,Android,New,Identity check,Verified,1,0,0,1
+TN-1229,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1230,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1231,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1232,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1233,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1234,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1235,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1236,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1237,Android,New,No challenge,Verified,1,0,0,1
+TN-1238,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1239,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1240,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1241,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-1242,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1243,iOS,Returning,No challenge,Not completed,1,0,0,0
+TN-1244,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1245,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1246,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1247,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1248,Android,New,Identity check,Verified,1,0,0,0
+TN-1249,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1250,Android,New,Identity check,Verified,1,0,0,1
+TN-1251,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1252,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1253,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1254,Android,New,No challenge,Verified,1,0,0,1
+TN-1255,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1256,iOS,Returning,Identity check,Retry needed,1,2,0,1
+TN-1257,Android,New,No challenge,Verified,1,0,0,1
+TN-1258,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1259,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1260,iOS,Returning,CAPTCHA,Retry needed,0,1,0,0
+TN-1261,iOS,New,No challenge,Verified,0,0,0,0
+TN-1262,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1263,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1264,Web,New,No challenge,Verified,1,0,0,1
+TN-1265,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1266,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1267,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1268,Web,New,No challenge,Verified,1,0,0,1
+TN-1269,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1270,Android,New,CAPTCHA,Support recovery,1,3,51,1
+TN-1271,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1272,Web,New,No challenge,Retry needed,1,3,0,1
+TN-1273,iOS,Returning,Identity check,Verified,0,0,0,0
+TN-1274,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1275,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1276,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1277,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1278,Android,New,No challenge,Verified,1,0,0,1
+TN-1279,Android,New,CAPTCHA,Retry needed,1,3,0,1
+TN-1280,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1281,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1282,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1283,iOS,New,Identity check,Verified,1,0,0,1
+TN-1284,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1285,Android,New,No challenge,Verified,1,0,0,1
+TN-1286,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1287,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1288,Android,New,No challenge,Verified,1,0,0,1
+TN-1289,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1290,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-1291,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1292,Android,New,No challenge,Verified,1,0,0,0
+TN-1293,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1294,Android,New,CAPTCHA,Retry needed,1,2,0,0
+TN-1295,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-1296,Android,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-1297,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1298,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1299,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1300,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1301,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1302,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1303,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1304,Android,New,No challenge,Verified,1,0,0,1
+TN-1305,Android,Returning,No challenge,Retry needed,1,1,0,0
+TN-1306,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1307,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1308,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1309,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1310,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1311,iOS,New,No challenge,Verified,1,0,0,1
+TN-1312,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1313,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1314,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1315,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1316,Android,New,No challenge,Verified,1,0,0,1
+TN-1317,Web,New,CAPTCHA,Support recovery,1,2,28,0
+TN-1318,Android,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-1319,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1320,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1321,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1322,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1323,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-1324,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1325,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-1326,iOS,New,No challenge,Verified,1,0,0,1
+TN-1327,iOS,New,No challenge,Verified,1,0,0,1
+TN-1328,iOS,Returning,Identity check,Retry needed,1,1,0,1
+TN-1329,iOS,New,CAPTCHA,Retry needed,0,1,0,1
+TN-1330,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1331,Web,New,No challenge,Verified,1,0,0,0
+TN-1332,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1333,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1334,Web,New,CAPTCHA,Support recovery,1,2,56,0
+TN-1335,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1336,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1337,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1338,Android,New,Identity check,Support recovery,1,2,11,1
+TN-1339,iOS,New,No challenge,Verified,1,0,0,1
+TN-1340,Web,New,No challenge,Verified,1,0,0,1
+TN-1341,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1342,iOS,New,Identity check,Retry needed,1,3,0,0
+TN-1343,Android,New,No challenge,Verified,1,0,0,1
+TN-1344,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1345,Android,New,Identity check,Verified,1,0,0,1
+TN-1346,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1347,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1348,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1349,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1350,Android,Returning,Identity check,Retry needed,1,2,0,0
+TN-1351,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1352,iOS,New,No challenge,Verified,1,0,0,1
+TN-1353,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1354,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1355,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1356,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1357,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1358,Android,Returning,CAPTCHA,Support recovery,1,2,10,1
+TN-1359,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1360,iOS,Returning,CAPTCHA,Verified,0,0,0,0
+TN-1361,Android,New,Identity check,Retry needed,1,1,0,1
+TN-1362,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1363,iOS,New,No challenge,Verified,1,0,0,1
+TN-1364,iOS,New,No challenge,Verified,1,0,0,1
+TN-1365,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1366,iOS,New,No challenge,Verified,1,0,0,1
+TN-1367,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1368,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1369,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1370,Android,New,No challenge,Verified,1,0,0,1
+TN-1371,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1372,Android,Returning,CAPTCHA,Retry needed,0,1,0,1
+TN-1373,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1374,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1375,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1376,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1377,Android,New,No challenge,Verified,1,0,0,1
+TN-1378,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-1379,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1380,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1381,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1382,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1383,iOS,New,No challenge,Verified,1,0,0,1
+TN-1384,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1385,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1386,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1387,iOS,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-1388,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1389,Android,New,Identity check,Verified,0,0,0,0
+TN-1390,Web,Returning,No challenge,Not completed,1,0,0,1
+TN-1391,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1392,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1393,iOS,New,No challenge,Verified,1,0,0,1
+TN-1394,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1395,Android,Returning,Identity check,Support recovery,1,2,32,0
+TN-1396,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-1397,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1398,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1399,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1400,iOS,Returning,Identity check,Support recovery,1,1,36,1
+TN-1401,Web,New,No challenge,Verified,1,0,0,1
+TN-1402,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1403,iOS,Returning,CAPTCHA,Support recovery,1,2,45,1
+TN-1404,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1405,iOS,New,Identity check,Verified,1,0,0,1
+TN-1406,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1407,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1408,Web,New,No challenge,Verified,1,0,0,1
+TN-1409,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1410,iOS,New,No challenge,Verified,1,0,0,1
+TN-1411,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1412,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-1413,Android,New,No challenge,Verified,1,0,0,1
+TN-1414,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1415,Android,Returning,CAPTCHA,Retry needed,0,2,0,0
+TN-1416,iOS,New,Identity check,Retry needed,1,1,0,0
+TN-1417,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1418,Android,Returning,CAPTCHA,Retry needed,0,1,0,0
+TN-1419,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1420,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1421,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1422,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1423,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1424,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1425,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1426,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1427,Android,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-1428,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1429,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1430,iOS,New,No challenge,Verified,0,0,0,1
+TN-1431,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1432,iOS,Returning,No challenge,Not completed,1,0,0,0
+TN-1433,Android,New,Identity check,Retry needed,1,3,0,1
+TN-1434,Android,New,No challenge,Not completed,1,0,0,0
+TN-1435,iOS,New,No challenge,Verified,1,0,0,1
+TN-1436,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1437,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1438,Android,Returning,Identity check,Verified,0,0,0,1
+TN-1439,Web,New,No challenge,Verified,1,0,0,1
+TN-1440,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1441,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1442,iOS,New,No challenge,Verified,1,0,0,1
+TN-1443,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1444,Web,Returning,CAPTCHA,Not completed,1,0,0,1
+TN-1445,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1446,iOS,New,Identity check,Verified,1,0,0,1
+TN-1447,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1448,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1449,Android,New,Identity check,Verified,1,0,0,1
+TN-1450,Android,New,Identity check,Verified,1,0,0,1
+TN-1451,iOS,New,No challenge,Verified,1,0,0,0
+TN-1452,iOS,New,CAPTCHA,Retry needed,1,3,0,0
+TN-1453,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1454,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1455,iOS,New,Identity check,Verified,1,0,0,1
+TN-1456,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1457,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1458,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1459,Web,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1460,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1461,Android,Returning,No challenge,Verified,0,0,0,1
+TN-1462,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1463,Android,Returning,CAPTCHA,Retry needed,1,3,0,1
+TN-1464,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1465,Android,New,Identity check,Verified,0,0,0,1
+TN-1466,Web,New,Identity check,Verified,1,0,0,1
+TN-1467,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1468,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1469,Web,New,No challenge,Verified,1,0,0,1
+TN-1470,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1471,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1472,Android,Returning,Identity check,Support recovery,1,1,31,1
+TN-1473,iOS,New,CAPTCHA,Retry needed,1,1,0,1
+TN-1474,Android,New,Identity check,Verified,1,0,0,1
+TN-1475,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1476,Android,New,No challenge,Verified,1,0,0,1
+TN-1477,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1478,Android,New,No challenge,Verified,0,0,0,1
+TN-1479,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1480,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1481,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1482,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1483,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1484,iOS,New,No challenge,Verified,1,0,0,0
+TN-1485,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1486,Web,Returning,Identity check,Verified,0,0,0,1
+TN-1487,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1488,Android,New,No challenge,Verified,1,0,0,1
+TN-1489,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1490,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1491,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1492,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1493,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1494,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1495,iOS,New,No challenge,Verified,1,0,0,1
+TN-1496,Android,New,No challenge,Verified,0,0,0,1
+TN-1497,iOS,New,No challenge,Verified,1,0,0,1
+TN-1498,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1499,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1500,Android,New,Identity check,Verified,1,0,0,1
+TN-1501,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1502,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1503,Android,New,No challenge,Verified,1,0,0,1
+TN-1504,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1505,iOS,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-1506,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1507,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1508,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1509,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1510,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1511,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1512,Android,New,No challenge,Verified,1,0,0,1
+TN-1513,Web,New,Identity check,Retry needed,1,2,0,0
+TN-1514,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-1515,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1516,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1517,iOS,Returning,No challenge,Support recovery,1,3,19,0
+TN-1518,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1519,iOS,New,No challenge,Verified,1,0,0,0
+TN-1520,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1521,Web,New,CAPTCHA,Support recovery,1,2,15,1
+TN-1522,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1523,iOS,Returning,CAPTCHA,Retry needed,0,3,0,0
+TN-1524,Web,New,Identity check,Verified,1,0,0,0
+TN-1525,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1526,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1527,iOS,New,Identity check,Retry needed,0,3,0,1
+TN-1528,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1529,iOS,New,No challenge,Verified,1,0,0,1
+TN-1530,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1531,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1532,Web,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1533,Android,New,Identity check,Retry needed,1,2,0,0
+TN-1534,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1535,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1536,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1537,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1538,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1539,Web,New,No challenge,Verified,1,0,0,1
+TN-1540,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1541,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1542,Android,New,No challenge,Verified,1,0,0,0
+TN-1543,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1544,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-1545,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1546,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1547,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1548,iOS,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-1549,Android,Returning,Identity check,Verified,0,0,0,1
+TN-1550,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1551,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1552,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1553,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1554,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1555,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1556,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1557,Android,New,CAPTCHA,Retry needed,1,2,0,0
+TN-1558,Android,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-1559,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1560,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1561,iOS,New,Identity check,Support recovery,1,2,47,0
+TN-1562,iOS,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-1563,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1564,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1565,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1566,iOS,New,No challenge,Verified,1,0,0,0
+TN-1567,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1568,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1569,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1570,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1571,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1572,Android,New,No challenge,Verified,1,0,0,1
+TN-1573,iOS,New,No challenge,Verified,1,0,0,1
+TN-1574,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1575,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1576,iOS,New,No challenge,Verified,1,0,0,1
+TN-1577,Android,New,No challenge,Verified,1,0,0,1
+TN-1578,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1579,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1580,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1581,iOS,New,Identity check,Verified,1,0,0,1
+TN-1582,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1583,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1584,Android,New,No challenge,Verified,1,0,0,1
+TN-1585,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1586,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1587,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1588,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1589,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1590,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1591,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1592,Android,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-1593,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1594,iOS,New,No challenge,Verified,1,0,0,1
+TN-1595,Android,New,Identity check,Verified,1,0,0,1
+TN-1596,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1597,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-1598,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1599,Android,New,No challenge,Verified,1,0,0,1
+TN-1600,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1601,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1602,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1603,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1604,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1605,Android,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-1606,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1607,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1608,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1609,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1610,Android,New,CAPTCHA,Retry needed,0,3,0,1
+TN-1611,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1612,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1613,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1614,Web,New,No challenge,Verified,1,0,0,1
+TN-1615,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1616,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1617,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1618,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1619,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1620,iOS,Returning,CAPTCHA,Verified,0,0,0,0
+TN-1621,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1622,iOS,New,Identity check,Verified,1,0,0,1
+TN-1623,Android,New,Identity check,Verified,1,0,0,1
+TN-1624,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1625,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1626,Android,Returning,Identity check,Verified,1,0,0,0
+TN-1627,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1628,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1629,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1630,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1631,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1632,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1633,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1634,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1635,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1636,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1637,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1638,Web,Returning,Identity check,Retry needed,0,3,0,1
+TN-1639,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1640,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1641,Android,New,No challenge,Verified,1,0,0,1
+TN-1642,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1643,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1644,iOS,New,No challenge,Not completed,1,0,0,0
+TN-1645,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1646,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1647,iOS,New,No challenge,Verified,1,0,0,1
+TN-1648,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1649,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1650,Android,New,No challenge,Verified,1,0,0,1
+TN-1651,iOS,New,No challenge,Verified,1,0,0,1
+TN-1652,iOS,Returning,No challenge,Verified,0,0,0,0
+TN-1653,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1654,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1655,iOS,New,Identity check,Not completed,1,0,0,0
+TN-1656,Android,New,No challenge,Verified,1,0,0,1
+TN-1657,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1658,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1659,iOS,Returning,CAPTCHA,Support recovery,1,1,21,0
+TN-1660,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1661,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1662,iOS,New,No challenge,Verified,1,0,0,1
+TN-1663,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1664,Android,New,No challenge,Verified,1,0,0,0
+TN-1665,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1666,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1667,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1668,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1669,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1670,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1671,Android,New,CAPTCHA,Retry needed,1,2,0,0
+TN-1672,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1673,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1674,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1675,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1676,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1677,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1678,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1679,Android,New,No challenge,Support recovery,1,3,73,1
+TN-1680,Android,New,No challenge,Verified,1,0,0,1
+TN-1681,Android,New,No challenge,Verified,1,0,0,1
+TN-1682,Android,Returning,CAPTCHA,Retry needed,1,3,0,1
+TN-1683,iOS,New,No challenge,Verified,1,0,0,1
+TN-1684,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1685,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1686,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1687,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-1688,iOS,New,No challenge,Verified,1,0,0,1
+TN-1689,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1690,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1691,iOS,New,Identity check,Verified,1,0,0,1
+TN-1692,Android,Returning,CAPTCHA,Retry needed,1,2,0,0
+TN-1693,Web,New,Identity check,Verified,1,0,0,1
+TN-1694,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1695,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1696,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1697,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1698,Android,New,No challenge,Verified,1,0,0,1
+TN-1699,iOS,New,No challenge,Not completed,1,0,0,0
+TN-1700,Android,New,No challenge,Verified,1,0,0,1
+TN-1701,iOS,New,No challenge,Verified,1,0,0,1
+TN-1702,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1703,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1704,iOS,New,Identity check,Verified,1,0,0,0
+TN-1705,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1706,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1707,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1708,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1709,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1710,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-1711,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1712,Android,New,No challenge,Verified,1,0,0,0
+TN-1713,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1714,Android,Returning,No challenge,Not completed,1,0,0,0
+TN-1715,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-1716,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-1717,Android,New,No challenge,Verified,1,0,0,1
+TN-1718,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1719,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1720,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1721,Web,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-1722,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1723,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1724,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1725,iOS,New,No challenge,Verified,1,0,0,1
+TN-1726,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1727,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1728,Android,New,No challenge,Not completed,1,0,0,0
+TN-1729,iOS,Returning,Identity check,Verified,0,0,0,0
+TN-1730,iOS,New,CAPTCHA,Verified,0,0,0,0
+TN-1731,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1732,iOS,New,Identity check,Verified,1,0,0,1
+TN-1733,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1734,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1735,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1736,Android,Returning,No challenge,Retry needed,1,2,0,0
+TN-1737,iOS,New,Identity check,Retry needed,0,3,0,0
+TN-1738,iOS,New,Identity check,Verified,1,0,0,1
+TN-1739,Android,New,CAPTCHA,Verified,0,0,0,0
+TN-1740,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1741,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1742,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1743,Android,New,CAPTCHA,Not completed,1,0,0,1
+TN-1744,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1745,Web,New,Identity check,Verified,1,0,0,0
+TN-1746,iOS,Returning,CAPTCHA,Verified,0,0,0,0
+TN-1747,Web,New,No challenge,Verified,1,0,0,1
+TN-1748,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1749,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1750,iOS,New,No challenge,Verified,1,0,0,1
+TN-1751,Android,New,Identity check,Not completed,0,0,0,0
+TN-1752,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1753,Android,New,Identity check,Retry needed,0,1,0,1
+TN-1754,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1755,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1756,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1757,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1758,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1759,Android,Returning,No challenge,Retry needed,0,2,0,0
+TN-1760,iOS,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1761,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1762,Android,New,No challenge,Verified,1,0,0,1
+TN-1763,iOS,New,Identity check,Verified,1,0,0,1
+TN-1764,iOS,New,No challenge,Verified,1,0,0,1
+TN-1765,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1766,Android,New,No challenge,Verified,1,0,0,1
+TN-1767,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1768,iOS,New,Identity check,Verified,1,0,0,1
+TN-1769,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1770,iOS,New,Identity check,Verified,1,0,0,1
+TN-1771,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1772,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1773,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1774,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1775,iOS,New,No challenge,Verified,1,0,0,1
+TN-1776,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1777,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-1778,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1779,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1780,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1781,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1782,Android,Returning,Identity check,Verified,0,0,0,1
+TN-1783,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-1784,Android,New,No challenge,Verified,1,0,0,0
+TN-1785,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1786,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1787,Android,New,No challenge,Verified,1,0,0,1
+TN-1788,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1789,Android,New,Identity check,Retry needed,1,1,0,1
+TN-1790,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1791,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1792,Android,New,No challenge,Verified,1,0,0,1
+TN-1793,iOS,Returning,Identity check,Not completed,0,0,0,0
+TN-1794,Android,New,Identity check,Verified,1,0,0,1
+TN-1795,Web,Returning,Identity check,Support recovery,1,2,37,1
+TN-1796,iOS,Returning,CAPTCHA,Support recovery,1,3,7,0
+TN-1797,Android,New,Identity check,Verified,1,0,0,1
+TN-1798,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1799,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1800,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1801,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1802,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1803,Android,New,No challenge,Verified,1,0,0,1
+TN-1804,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-1805,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1806,Web,New,No challenge,Verified,1,0,0,0
+TN-1807,Android,New,No challenge,Verified,1,0,0,0
+TN-1808,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1809,Web,Returning,Identity check,Verified,1,0,0,1
+TN-1810,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-1811,Web,New,Identity check,Support recovery,1,3,77,1
+TN-1812,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-1813,Android,Returning,CAPTCHA,Support recovery,1,3,49,1
+TN-1814,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1815,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1816,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1817,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1818,iOS,New,CAPTCHA,Support recovery,1,2,20,0
+TN-1819,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1820,Android,New,Identity check,Verified,0,0,0,1
+TN-1821,iOS,New,No challenge,Verified,1,0,0,1
+TN-1822,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1823,Android,New,CAPTCHA,Retry needed,1,1,0,1
+TN-1824,Android,Returning,CAPTCHA,Support recovery,1,3,15,1
+TN-1825,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1826,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1827,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1828,Web,Returning,Identity check,Verified,0,0,0,0
+TN-1829,Android,New,No challenge,Verified,1,0,0,1
+TN-1830,iOS,New,No challenge,Verified,1,0,0,1
+TN-1831,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1832,Android,New,No challenge,Verified,1,0,0,1
+TN-1833,Android,Returning,CAPTCHA,Retry needed,0,1,0,0
+TN-1834,iOS,New,No challenge,Verified,1,0,0,0
+TN-1835,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1836,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1837,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1838,Android,New,No challenge,Verified,1,0,0,1
+TN-1839,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1840,Android,New,Identity check,Verified,1,0,0,1
+TN-1841,Android,New,No challenge,Verified,1,0,0,1
+TN-1842,Android,Returning,CAPTCHA,Retry needed,1,3,0,1
+TN-1843,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1844,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1845,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1846,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1847,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1848,iOS,New,CAPTCHA,Retry needed,1,2,0,0
+TN-1849,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-1850,Web,New,Identity check,Verified,1,0,0,1
+TN-1851,Android,New,No challenge,Verified,1,0,0,1
+TN-1852,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1853,Android,New,No challenge,Verified,1,0,0,1
+TN-1854,Android,New,Identity check,Verified,1,0,0,1
+TN-1855,iOS,New,No challenge,Verified,1,0,0,0
+TN-1856,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1857,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1858,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1859,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1860,Web,New,No challenge,Verified,1,0,0,0
+TN-1861,Android,New,No challenge,Verified,1,0,0,1
+TN-1862,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1863,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1864,iOS,New,No challenge,Verified,1,0,0,0
+TN-1865,Web,Returning,Identity check,Support recovery,1,3,33,0
+TN-1866,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1867,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-1868,Android,New,No challenge,Verified,1,0,0,1
+TN-1869,Web,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1870,iOS,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-1871,Web,Returning,No challenge,Retry needed,1,1,0,1
+TN-1872,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1873,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1874,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1875,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1876,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1877,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-1878,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1879,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1880,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1881,iOS,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-1882,iOS,New,No challenge,Verified,1,0,0,1
+TN-1883,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1884,Web,New,No challenge,Verified,1,0,0,0
+TN-1885,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1886,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1887,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1888,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1889,iOS,New,No challenge,Verified,1,0,0,1
+TN-1890,Web,Returning,Identity check,Verified,1,0,0,0
+TN-1891,iOS,New,Identity check,Verified,1,0,0,1
+TN-1892,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1893,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1894,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1895,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1896,Android,New,No challenge,Verified,1,0,0,1
+TN-1897,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1898,iOS,Returning,Identity check,Retry needed,1,1,0,0
+TN-1899,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1900,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1901,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1902,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1903,Android,New,CAPTCHA,Not completed,0,0,0,0
+TN-1904,Android,New,CAPTCHA,Not completed,0,0,0,0
+TN-1905,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1906,Android,Returning,Identity check,Retry needed,1,1,0,1
+TN-1907,Android,New,Identity check,Support recovery,1,2,90,0
+TN-1908,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1909,Android,New,No challenge,Verified,1,0,0,1
+TN-1910,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1911,Android,New,No challenge,Verified,1,0,0,1
+TN-1912,Android,New,Identity check,Verified,1,0,0,1
+TN-1913,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1914,Web,New,CAPTCHA,Support recovery,1,3,76,1
+TN-1915,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1916,Web,Returning,No challenge,Verified,0,0,0,1
+TN-1917,Android,New,CAPTCHA,Not completed,1,0,0,0
+TN-1918,Android,New,No challenge,Retry needed,1,2,0,0
+TN-1919,Android,Returning,No challenge,Verified,0,0,0,1
+TN-1920,Android,New,No challenge,Verified,1,0,0,1
+TN-1921,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-1922,Web,Returning,No challenge,Verified,1,0,0,0
+TN-1923,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1924,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1925,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-1926,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1927,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1928,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1929,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-1930,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1931,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1932,Web,New,No challenge,Verified,1,0,0,1
+TN-1933,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1934,Web,New,Identity check,Verified,1,0,0,1
+TN-1935,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1936,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1937,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1938,iOS,New,No challenge,Verified,1,0,0,1
+TN-1939,iOS,New,No challenge,Verified,1,0,0,1
+TN-1940,iOS,New,No challenge,Verified,1,0,0,1
+TN-1941,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1942,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1943,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1944,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1945,iOS,Returning,Identity check,Verified,0,0,0,0
+TN-1946,Web,New,Identity check,Verified,1,0,0,1
+TN-1947,iOS,New,No challenge,Verified,1,0,0,1
+TN-1948,iOS,New,CAPTCHA,Retry needed,1,2,0,1
+TN-1949,Android,Returning,Identity check,Retry needed,1,3,0,0
+TN-1950,Android,New,No challenge,Verified,1,0,0,1
+TN-1951,Android,New,CAPTCHA,Retry needed,1,1,0,1
+TN-1952,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1953,Android,New,Identity check,Verified,1,0,0,1
+TN-1954,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1955,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-1956,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-1957,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1958,Android,New,No challenge,Verified,1,0,0,1
+TN-1959,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1960,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1961,Web,New,No challenge,Verified,1,0,0,1
+TN-1962,Web,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1963,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-1964,Android,New,Identity check,Verified,1,0,0,0
+TN-1965,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1966,Android,Returning,No challenge,Verified,1,0,0,0
+TN-1967,Web,New,No challenge,Verified,1,0,0,0
+TN-1968,Web,Returning,No challenge,Verified,1,0,0,1
+TN-1969,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1970,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1971,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1972,Web,New,No challenge,Verified,1,0,0,0
+TN-1973,Android,Returning,Identity check,Not completed,1,0,0,0
+TN-1974,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1975,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-1976,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1977,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1978,Android,Returning,No challenge,Verified,1,0,0,1
+TN-1979,Android,New,No challenge,Verified,1,0,0,1
+TN-1980,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-1981,Web,New,Identity check,Verified,1,0,0,1
+TN-1982,Android,New,No challenge,Verified,1,0,0,1
+TN-1983,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1984,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1985,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-1986,Android,New,Identity check,Support recovery,1,2,89,1
+TN-1987,Android,Returning,Identity check,Verified,0,0,0,1
+TN-1988,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-1989,Android,Returning,Identity check,Support recovery,1,3,44,1
+TN-1990,iOS,New,No challenge,Verified,1,0,0,1
+TN-1991,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1992,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-1993,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1994,Android,New,Identity check,Verified,1,0,0,1
+TN-1995,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1996,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-1997,Android,Returning,Identity check,Verified,1,0,0,1
+TN-1998,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-1999,iOS,New,No challenge,Verified,1,0,0,1
+TN-2000,iOS,Returning,Identity check,Support recovery,1,2,56,1
+TN-2001,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2002,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2003,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2004,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-2005,iOS,New,No challenge,Verified,1,0,0,1
+TN-2006,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-2007,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2008,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2009,iOS,New,No challenge,Verified,1,0,0,1
+TN-2010,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2011,Android,Returning,No challenge,Retry needed,1,1,0,0
+TN-2012,Android,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-2013,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2014,Android,New,Identity check,Verified,1,0,0,0
+TN-2015,Android,New,No challenge,Verified,1,0,0,1
+TN-2016,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2017,Web,New,No challenge,Verified,1,0,0,1
+TN-2018,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2019,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2020,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2021,Android,New,No challenge,Verified,1,0,0,1
+TN-2022,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2023,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2024,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2025,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2026,Android,New,No challenge,Verified,1,0,0,1
+TN-2027,iOS,Returning,Identity check,Retry needed,0,1,0,0
+TN-2028,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2029,Android,New,No challenge,Verified,0,0,0,1
+TN-2030,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2031,iOS,New,No challenge,Verified,1,0,0,1
+TN-2032,Android,New,No challenge,Verified,1,0,0,1
+TN-2033,Android,New,No challenge,Verified,1,0,0,1
+TN-2034,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2035,iOS,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-2036,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2037,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2038,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2039,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2040,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-2041,Android,New,No challenge,Verified,1,0,0,1
+TN-2042,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2043,Android,New,Identity check,Verified,1,0,0,0
+TN-2044,iOS,New,Identity check,Verified,0,0,0,1
+TN-2045,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2046,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2047,Android,New,CAPTCHA,Support recovery,1,3,8,0
+TN-2048,iOS,New,Identity check,Verified,1,0,0,1
+TN-2049,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2050,Android,New,No challenge,Verified,1,0,0,1
+TN-2051,Web,New,Identity check,Verified,1,0,0,1
+TN-2052,iOS,New,Identity check,Verified,0,0,0,0
+TN-2053,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2054,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2055,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2056,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2057,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2058,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2059,iOS,New,Identity check,Verified,0,0,0,1
+TN-2060,Web,New,No challenge,Verified,1,0,0,0
+TN-2061,Android,New,Identity check,Verified,1,0,0,1
+TN-2062,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2063,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-2064,iOS,New,No challenge,Verified,1,0,0,0
+TN-2065,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2066,Web,New,No challenge,Verified,1,0,0,1
+TN-2067,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2068,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2069,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2070,Android,New,CAPTCHA,Not completed,1,0,0,1
+TN-2071,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2072,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2073,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2074,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2075,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2076,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2077,Web,Returning,Identity check,Verified,1,0,0,0
+TN-2078,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-2079,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2080,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2081,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2082,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2083,iOS,New,No challenge,Verified,1,0,0,1
+TN-2084,Android,New,No challenge,Verified,1,0,0,1
+TN-2085,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2086,iOS,New,No challenge,Verified,1,0,0,1
+TN-2087,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2088,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2089,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2090,Android,New,Identity check,Not completed,1,0,0,1
+TN-2091,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2092,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2093,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2094,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2095,iOS,New,No challenge,Verified,1,0,0,0
+TN-2096,Android,New,CAPTCHA,Retry needed,1,1,0,0
+TN-2097,iOS,New,No challenge,Verified,1,0,0,1
+TN-2098,Android,Returning,Identity check,Verified,0,0,0,1
+TN-2099,iOS,New,CAPTCHA,Verified,0,0,0,1
+TN-2100,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2101,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2102,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2103,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2104,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2105,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-2106,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2107,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2108,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2109,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2110,Android,Returning,Identity check,Verified,1,0,0,0
+TN-2111,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2112,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2113,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2114,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2115,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2116,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2117,Android,New,No challenge,Verified,1,0,0,1
+TN-2118,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2119,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2120,Web,Returning,Identity check,Not completed,1,0,0,0
+TN-2121,Web,New,No challenge,Verified,1,0,0,0
+TN-2122,iOS,New,CAPTCHA,Retry needed,1,1,0,1
+TN-2123,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2124,iOS,New,CAPTCHA,Retry needed,1,2,0,1
+TN-2125,iOS,New,No challenge,Verified,1,0,0,1
+TN-2126,Android,New,CAPTCHA,Support recovery,1,2,46,1
+TN-2127,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2128,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2129,iOS,Returning,Identity check,Verified,1,0,0,0
+TN-2130,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2131,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2132,Android,New,Identity check,Verified,1,0,0,1
+TN-2133,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2134,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2135,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2136,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-2137,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-2138,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2139,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2140,Android,New,No challenge,Verified,1,0,0,1
+TN-2141,iOS,Returning,CAPTCHA,Not completed,0,0,0,1
+TN-2142,Web,New,Identity check,Verified,0,0,0,0
+TN-2143,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2144,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2145,iOS,New,No challenge,Verified,1,0,0,1
+TN-2146,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2147,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2148,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2149,iOS,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-2150,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2151,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2152,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2153,iOS,Returning,Identity check,Support recovery,1,1,56,0
+TN-2154,Android,Returning,Identity check,Retry needed,1,2,0,1
+TN-2155,Web,Returning,No challenge,Verified,1,0,0,0
+TN-2156,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2157,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2158,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2159,Android,New,No challenge,Retry needed,0,3,0,1
+TN-2160,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2161,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2162,Android,New,CAPTCHA,Retry needed,1,2,0,1
+TN-2163,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2164,Android,New,No challenge,Verified,1,0,0,0
+TN-2165,iOS,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-2166,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2167,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-2168,Android,New,No challenge,Verified,1,0,0,1
+TN-2169,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2170,Android,New,No challenge,Verified,1,0,0,1
+TN-2171,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-2172,Android,New,No challenge,Verified,1,0,0,0
+TN-2173,Android,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-2174,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2175,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-2176,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2177,iOS,Returning,CAPTCHA,Retry needed,1,2,0,1
+TN-2178,Web,New,No challenge,Verified,1,0,0,1
+TN-2179,Android,Returning,No challenge,Verified,0,0,0,1
+TN-2180,iOS,New,CAPTCHA,Retry needed,1,2,0,1
+TN-2181,Android,New,No challenge,Verified,1,0,0,0
+TN-2182,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2183,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2184,Android,New,No challenge,Verified,1,0,0,1
+TN-2185,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2186,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2187,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-2188,Android,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-2189,Android,New,No challenge,Verified,1,0,0,1
+TN-2190,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2191,Android,New,Identity check,Verified,1,0,0,1
+TN-2192,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2193,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2194,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2195,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2196,Web,New,Identity check,Verified,0,0,0,1
+TN-2197,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2198,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2199,iOS,New,Identity check,Verified,1,0,0,1
+TN-2200,Android,New,No challenge,Verified,1,0,0,1
+TN-2201,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2202,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2203,Web,Returning,Identity check,Verified,1,0,0,0
+TN-2204,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2205,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2206,Android,New,Identity check,Not completed,1,0,0,0
+TN-2207,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2208,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-2209,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2210,Web,New,Identity check,Verified,1,0,0,0
+TN-2211,Android,Returning,Identity check,Support recovery,1,3,41,1
+TN-2212,iOS,New,No challenge,Verified,0,0,0,1
+TN-2213,Web,Returning,No challenge,Verified,1,0,0,0
+TN-2214,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2215,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2216,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2217,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2218,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2219,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2220,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2221,Android,Returning,Identity check,Verified,0,0,0,1
+TN-2222,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-2223,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2224,Web,New,Identity check,Verified,1,0,0,1
+TN-2225,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2226,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-2227,Android,New,CAPTCHA,Retry needed,1,3,0,1
+TN-2228,Android,New,CAPTCHA,Retry needed,1,3,0,0
+TN-2229,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2230,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2231,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2232,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2233,iOS,New,Identity check,Support recovery,1,2,39,1
+TN-2234,iOS,New,No challenge,Verified,1,0,0,1
+TN-2235,Android,Returning,CAPTCHA,Retry needed,1,3,0,0
+TN-2236,iOS,New,No challenge,Verified,1,0,0,1
+TN-2237,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2238,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2239,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2240,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2241,iOS,Returning,Identity check,Not completed,1,0,0,0
+TN-2242,Android,New,No challenge,Verified,1,0,0,1
+TN-2243,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2244,iOS,New,No challenge,Verified,1,0,0,1
+TN-2245,Web,New,No challenge,Verified,1,0,0,1
+TN-2246,iOS,New,CAPTCHA,Support recovery,1,2,63,0
+TN-2247,Android,New,No challenge,Verified,1,0,0,1
+TN-2248,Android,New,No challenge,Not completed,1,0,0,0
+TN-2249,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2250,iOS,New,Identity check,Verified,1,0,0,1
+TN-2251,Web,New,No challenge,Verified,1,0,0,0
+TN-2252,iOS,New,No challenge,Verified,1,0,0,1
+TN-2253,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2254,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2255,iOS,New,Identity check,Verified,1,0,0,1
+TN-2256,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2257,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2258,Web,Returning,Identity check,Verified,1,0,0,1
+TN-2259,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-2260,Web,Returning,CAPTCHA,Support recovery,1,2,51,0
+TN-2261,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2262,iOS,New,CAPTCHA,Retry needed,1,3,0,0
+TN-2263,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2264,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2265,Android,New,CAPTCHA,Support recovery,1,3,19,1
+TN-2266,iOS,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-2267,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2268,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2269,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2270,Android,Returning,No challenge,Not completed,1,0,0,0
+TN-2271,iOS,New,Identity check,Verified,1,0,0,1
+TN-2272,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2273,Web,Returning,CAPTCHA,Retry needed,1,1,0,1
+TN-2274,Android,Returning,CAPTCHA,Not completed,1,0,0,0
+TN-2275,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2276,iOS,Returning,Identity check,Verified,1,0,0,1
+TN-2277,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2278,iOS,Returning,Identity check,Retry needed,1,3,0,1
+TN-2279,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2280,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2281,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2282,Android,New,No challenge,Verified,1,0,0,1
+TN-2283,Android,New,No challenge,Verified,1,0,0,1
+TN-2284,Web,Returning,Identity check,Verified,1,0,0,1
+TN-2285,Web,New,Identity check,Verified,1,0,0,1
+TN-2286,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2287,iOS,New,No challenge,Verified,1,0,0,1
+TN-2288,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2289,Android,New,CAPTCHA,Verified,0,0,0,1
+TN-2290,iOS,New,No challenge,Verified,1,0,0,1
+TN-2291,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2292,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2293,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2294,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2295,Web,New,No challenge,Verified,1,0,0,1
+TN-2296,Android,New,No challenge,Verified,1,0,0,1
+TN-2297,Android,New,No challenge,Verified,1,0,0,1
+TN-2298,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2299,Android,New,Identity check,Verified,1,0,0,1
+TN-2300,Web,Returning,No challenge,Verified,1,0,0,0
+TN-2301,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2302,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2303,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2304,Android,Returning,CAPTCHA,Retry needed,1,1,0,0
+TN-2305,Web,Returning,No challenge,Verified,1,0,0,0
+TN-2306,iOS,New,CAPTCHA,Verified,1,0,0,0
+TN-2307,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2308,Web,New,No challenge,Verified,1,0,0,0
+TN-2309,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2310,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2311,Android,New,No challenge,Verified,1,0,0,1
+TN-2312,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2313,iOS,Returning,No challenge,Verified,0,0,0,1
+TN-2314,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2315,Android,New,No challenge,Verified,1,0,0,1
+TN-2316,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2317,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2318,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2319,iOS,Returning,No challenge,Verified,1,0,0,0
+TN-2320,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2321,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2322,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2323,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2324,iOS,New,CAPTCHA,Support recovery,1,1,54,1
+TN-2325,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2326,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2327,Web,New,CAPTCHA,Verified,0,0,0,1
+TN-2328,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2329,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-2330,Web,New,No challenge,Support recovery,1,2,66,1
+TN-2331,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2332,Android,Returning,Identity check,Retry needed,1,1,0,0
+TN-2333,Android,New,CAPTCHA,Verified,1,0,0,0
+TN-2334,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2335,iOS,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2336,iOS,New,CAPTCHA,Verified,0,0,0,0
+TN-2337,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2338,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2339,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2340,Web,Returning,No challenge,Verified,1,0,0,0
+TN-2341,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2342,iOS,Returning,CAPTCHA,Not completed,0,0,0,0
+TN-2343,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2344,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2345,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2346,iOS,New,No challenge,Not completed,1,0,0,0
+TN-2347,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2348,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2349,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2350,Android,New,No challenge,Verified,1,0,0,1
+TN-2351,Android,New,Identity check,Not completed,0,0,0,0
+TN-2352,Android,New,No challenge,Verified,1,0,0,1
+TN-2353,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2354,iOS,New,CAPTCHA,Retry needed,1,3,0,1
+TN-2355,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2356,iOS,New,Identity check,Verified,1,0,0,1
+TN-2357,Web,New,CAPTCHA,Verified,1,0,0,0
+TN-2358,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2359,iOS,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2360,Android,New,Identity check,Verified,1,0,0,1
+TN-2361,Web,Returning,No challenge,Support recovery,1,3,59,1
+TN-2362,Android,Returning,CAPTCHA,Verified,1,0,0,0
+TN-2363,Android,New,No challenge,Verified,1,0,0,0
+TN-2364,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2365,Android,Returning,No challenge,Verified,1,0,0,1
+TN-2366,iOS,New,CAPTCHA,Not completed,1,0,0,0
+TN-2367,iOS,New,Identity check,Verified,1,0,0,1
+TN-2368,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2369,Web,New,Identity check,Verified,1,0,0,1
+TN-2370,iOS,Returning,CAPTCHA,Verified,0,0,0,0
+TN-2371,Android,New,Identity check,Verified,1,0,0,1
+TN-2372,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2373,Web,Returning,No challenge,Verified,1,0,0,1
+TN-2374,iOS,Returning,No challenge,Verified,1,0,0,1
+TN-2375,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2376,Android,Returning,Identity check,Retry needed,1,2,0,0
+TN-2377,Web,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2378,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2379,Android,Returning,No challenge,Verified,1,0,0,0
+TN-2380,iOS,New,No challenge,Verified,1,0,0,0
+TN-2381,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-2382,Android,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2383,iOS,New,Identity check,Support recovery,1,2,68,1
+TN-2384,Web,New,CAPTCHA,Verified,1,0,0,1
+TN-2385,Web,Returning,Identity check,Retry needed,1,3,0,1
+TN-2386,iOS,Returning,Identity check,Verified,0,0,0,1
+TN-2387,Android,Returning,CAPTCHA,Verified,1,0,0,1
+TN-2388,Android,New,CAPTCHA,Verified,1,0,0,1
+TN-2389,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2390,iOS,Returning,CAPTCHA,Verified,0,0,0,1
+TN-2391,Android,New,No challenge,Verified,1,0,0,1
+TN-2392,Android,Returning,CAPTCHA,Support recovery,1,1,83,1
+TN-2393,Android,Returning,No challenge,Support recovery,1,1,12,1
+TN-2394,Android,New,Identity check,Support recovery,1,2,28,1
+TN-2395,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2396,iOS,New,CAPTCHA,Verified,1,0,0,1
+TN-2397,Android,Returning,Identity check,Verified,0,0,0,0
+TN-2398,Android,Returning,Identity check,Verified,1,0,0,1
+TN-2399,Android,Returning,CAPTCHA,Support recovery,1,1,67,0
+TN-2400,Android,Returning,CAPTCHA,Retry needed,0,3,0,1
