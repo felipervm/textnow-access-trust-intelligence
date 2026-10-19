@@ -22,7 +22,7 @@ function render() {
  $('recovery').textContent = fmt.format(recovery.length);
  $('recovery-detail').textContent = percent(recovery.length, data.length) + ' of selected journeys · outcome category';
  $('friction').textContent = percent(incomplete, legit.length);
- $('friction-detail').textContent = incomplete + ' ÷ ' + fmt.format(legit.length) + ' fictional legitimate labels';
+ $('friction-detail').textContent = incomplete + ' ÷ ' + fmt.format(legit.length) + ' simulated legitimate-user sessions';
  $('retry-rate').textContent = percent(retries, data.length);
  $('retry-detail').textContent = retries + ' with retry_count > 0 ÷ ' + fmt.format(data.length) + ' selected';
  $('support-time').textContent = resolution === null ? '—' : resolution + ' min';
