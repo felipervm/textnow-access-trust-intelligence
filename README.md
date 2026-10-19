@@ -33,3 +33,10 @@ No real user records, fraud labels, company retention metrics, internal decision
 
 ## Contact
 Felipe Mattos · [LinkedIn](https://www.linkedin.com/in/felipervm) · felipervm22@gmail.com
+
+## Portfolio presentation
+The landing page is an independent case for a career conversation in analytics or operations, not an official TextNow tool. Brand typography and images are verified against TextNow's public homepage (October 19, 2026). TextNow retains ownership of those assets.
+
+The demo supports all 16 combinations of platform (including all) and route (including all). It reports direct verification separately from the Support recovery outcome; these are mutually exclusive categories, not funnel stages. Fictional-label noncompletion uses only simulated_legitimate=1 rows as its denominator. Median support resolution uses Support recovery rows only. The model does not contain a population of attempted recoveries, so recovery success cannot be estimated. Day-7 return is generated with outcome-dependent weights and is not displayed as observed evidence.
+
+No internal TextNow data, false-positive rate, causal effect or unmet product need is established. The proposed test focuses on clearer guidance or support handoffs, with abuse and security outcomes as stop conditions.
